@@ -1,0 +1,1877 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css');
+
+@import url('variables.css');
+@import url('base.css');
+
+@import url('components/flex-grid.css');
+@import url('components/buttons.css');
+@import url('components/forms.css');
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+* {
+    font-family: 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+    
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+:root {
+    --web-view-ids: contactAll;
+}
+#contactAll * {
+    margin: 0;
+    padding: 0;
+}
+#contactAll {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 768px;
+    height: 1366px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+    --web-view-name: contactAll;
+    --web-view-id: contactAll;
+    --web-scale-to-fit: true;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+
+
+:root { 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#CAMPEDsite * {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+#Line_10 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(201, 54, 174);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_10 {
+    overflow: visible;
+    position: absolute;
+    top: 275.5px;
+    left: 23.5px;
+    width: 160px;
+    height: 1px;
+}
+
+#Ellipse_10 {
+    opacity: 1;
+    fill: rgba(201, 54, 174, 1);
+}
+
+.Ellipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 6px;
+    height: 6px;
+    left: 21px;
+    top: 551px;
+}
+
+#Ellipse_12 {
+    opacity: 1;
+    fill: rgba(201, 54, 174, 1);
+}
+
+.Ellipse_12 {
+    position: absolute;
+    overflow: visible;
+    width: 6px;
+    height: 6px;
+    left: 23px;
+    top: 273px;
+}
+
+#ID0 {
+    opacity: 1;
+    position: absolute;
+    left: 20.5px;
+    top: 532px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 9px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#ID0_A2_Text_107 {
+    opacity: 1;
+    position: absolute;
+    left: 17px;
+    top: 254px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 20px;
+    height: 11px;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#bol1 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.bol1 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 23px;
+    top: 599px;
+}
+
+#bol2 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.bol2 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 23px;
+    top: 641px;
+}
+
+#bol2 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.bol3 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 23px;
+    top: 620px;
+}
+
+#bol3 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.bol4 {
+    position: absolute;
+    overflow: visible;
+    width: 11px;
+    height: 11px;
+    left: 23px;
+    top: 662px;
+}
+
+#bol4 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+
+
+#Frankrijk {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Repeat_Grid_3_2 {
+    opacity: 1;
+    position: absolute;
+    width: 59px;
+    height: 10px;
+    left: 0px;
+    top: 64px;
+    overflow: visible;
+}
+
+#Nederland {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Repeat_Grid_3_3 {
+    opacity: 1;
+    position: absolute;
+    width: 59px;
+    height: 10px;
+    left: 0px;
+    top: 96px;
+    overflow: visible;
+}
+
+
+#Meer__ {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Toiletten {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 599px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 83px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Rivier {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 620px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 78px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Water {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 641px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Electriciteit {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 662px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Meer___A2_Text_117 {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 685px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Land {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 306px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 16px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Size {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 504px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 39px;
+    height: 16px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Faciliteiten {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 574px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 84px;
+    height: 16px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Group_10 {
+    opacity: 1;
+    position: absolute;
+    width: 54.64px;
+    height: 29.887px;
+    left: 656.36px;
+    top: 42.305px;
+    overflow: visible;
+}
+
+#Path_2 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_2 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 55.561px;
+    height: 22.923px;
+}
+
+#Path_3 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_3 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 10.461px;
+    left: 18.807px;
+    width: 31.486px;
+    height: 2px;
+}
+
+#Path_4 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_4 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 27.32px;
+    width: 2px;
+    height: 20.561px;
+}
+
+#Path_5 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_5 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 0.46px;
+    left: 41.337px;
+    width: 2px;
+    height: 20.101px;
+}
+
+#Ellipse_3 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_3 {
+    position: absolute;
+    overflow: visible;
+    width: 9.229px;
+    height: 9.229px;
+    left: 20.8px;
+    top: 20.658px;
+}
+
+#Ellipse_4 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_4 {
+    position: absolute;
+    overflow: visible;
+    width: 9.229px;
+    height: 9.229px;
+    left: 39.258px;
+    top: 20.658px;
+}
+
+#Hectare {
+    opacity: 1;
+    position: absolute;
+    left: 61px;
+    top: 510px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 26px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 7px;
+    color: rgba(19, 83, 83, 1);
+}
+
+#Group_9 {
+    opacity: 1;
+    position: absolute;
+    width: 10.92px;
+    height: 10.92px;
+    left: 695.076px;
+    top: 123.488px;
+    overflow: visible;
+}
+
+#Ellipse_9 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(201, 54, 174);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_9 {
+    position: absolute;
+    overflow: visible;
+    width: 9.917px;
+    height: 9.917px;
+    left: 0px;
+    top: 0px;
+    transform: rotate(-45deg);
+}
+
+#Path_11 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(201, 54, 174);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_11 {
+    transform: rotate(-45deg);
+    overflow: visible;
+    position: absolute;
+    top: 7.252px;
+    left: 7.252px;
+    width: 4.375px;
+    height: 4.375px;
+}
+
+.DurbuyArdennen10 {
+    position: absolute;
+    overflow: visible;
+    width: 512.391px;
+    height: 348.648px;
+    left: 199px;
+    top: 232px;
+}
+
+#Line_12 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_12 {
+    overflow: visible;
+    position: absolute;
+    top: 150.5px;
+    left: 23.5px;
+    width: 48px;
+    height: 1px;
+}
+
+#Line_13 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_13 {
+    overflow: visible;
+    position: absolute;
+    top: 150.5px;
+    left: 199.5px;
+    width: 406px;
+    height: 1px;
+}
+
+#Klantendienst {
+    opacity: 1;
+    position: absolute;
+    left: 444.629px;
+    top: 45px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 131px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 21px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#FAQ {
+    opacity: 1;
+    position: absolute;
+    left: 597.629px;
+    top: 43px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 51px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 27px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Vrienden {
+    opacity: 1;
+    position: absolute;
+    left: 199px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 61px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#JEUGDBEWEGING {
+    opacity: 1;
+    position: absolute;
+    left: 300.962px;
+    top: 125.5px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 127px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#School {
+    opacity: 1;
+    position: absolute;
+    left: 468.386px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 47px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Bedrijf {
+    opacity: 1;
+    position: absolute;
+    left: 561.455px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 45px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Rectangle_1 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(201, 54, 174);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 76.52px;
+    height: 21.251px;
+    left: 634.48px;
+    top: 122px;
+}
+
+#Path_2_A2_Path_58 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_2_A2_Path_58 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 55.561px;
+    height: 22.923px;
+}
+
+#Path_3_A2_Path_59 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_3_A2_Path_59 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 10.461px;
+    left: 18.807px;
+    width: 31.486px;
+    height: 2px;
+}
+
+#Path_4_A2_Path_60 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_4_A2_Path_60 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 0px;
+    left: 27.32px;
+    width: 2px;
+    height: 20.561px;
+}
+
+#Path_5_A2_Path_61 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_5_A2_Path_61 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 0.46px;
+    left: 41.337px;
+    width: 2px;
+    height: 20.101px;
+}
+
+#Ellipse_3_A2_Ellipse_21 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_3_A2_Ellipse_21 {
+    position: absolute;
+    overflow: visible;
+    width: 9.229px;
+    height: 9.229px;
+    left: 20.8px;
+    top: 20.658px;
+}
+
+#Ellipse_4_A2_Ellipse_22 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Ellipse_4_A2_Ellipse_22 {
+    position: absolute;
+    overflow: visible;
+    width: 9.229px;
+    height: 9.229px;
+    left: 39.258px;
+    top: 20.658px;
+}
+
+#Path_7 {
+    opacity: 1;
+    fill: rgba(201, 54, 174, 1);
+}
+
+.Path_7 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 40px;
+    left: 23px;
+    width: 336px;
+    height: 50px;
+}
+
+#WAAR_WIL_JIJ_NAARTOE__ {
+    opacity: 1;
+    filter: drop-shadow(2px 2px 1px rgba(0, 0, 0, 0.435));
+    position: absolute;
+    left: 278px;
+    top: 349px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 355px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#ID20120527_114850 {
+    opacity: 1;
+    fill: url(#ID20120527_114850_A2_Rectangle_50_pattern);
+}
+
+.ID20120527_114850 {
+    position: absolute;
+    overflow: visible;
+    width: 159.391px;
+    height: 108.648px;
+    left: 199.885px;
+    top: 596px;
+}
+
+#ID78791A {
+    opacity: 1;
+    fill: url(#ID78);
+}
+
+.ID78791A {
+    position: absolute;
+    overflow: visible;
+    width: 159.391px;
+    height: 108.648px;
+    left: 375px;
+    top: 595.777px;
+}
+
+#Durbuy_ardennen {
+    opacity: 1;
+    fill: url(#durbuy);
+}
+
+.Durbuy_ardennen {
+    position: absolute;
+    overflow: visible;
+    width: 159.391px;
+    height: 108.648px;
+    left: 551.609px;
+    top: 595.777px;
+}
+
+#Line_14 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(112, 112, 112);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_14 {
+    overflow: visible;
+    position: absolute;
+    top: 150.5px;
+    left: 99.5px;
+    width: 68px;
+    height: 1px;
+}
+
+#CONTACT {
+    opacity: 1;
+    position: absolute;
+    left: 99px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(201, 54, 174, 1);
+}
+
+/* hier begint de css van de contact pagina
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!
+!
+!
+!
+!
+!
+!
+
+*/
+
+#contactAll * {
+    margin: 0;
+    padding: 0;
+}
+
+#contactAll {
+    position: absolute;
+    box-sizing: border-box;
+    background: #E5E5E5;
+    width: 768px;
+    height: 1366px;
+    background-color: rgba(255, 255, 255, 1);
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    opacity: 1;
+    --web-view-name: contactAll;
+    --web-view-id: contactAll;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+
+#Rectangle_91 {
+    opacity: 1;
+    fill: rgba(201, 54, 174, 1);
+}
+
+.Rectangle_91 {
+    position: absolute;
+    overflow: visible;
+    width: 79px;
+    height: 35px;
+    left: 632px;
+    top: 166px;
+}
+
+#Rectangle_100 {
+    opacity: 1;
+    fill: rgba(201, 54, 174, 1);
+}
+
+.Rectangle_100 {
+    position: absolute;
+    overflow: visible;
+    width: 116px;
+    height: 35px;
+    left: 439px;
+    top: 562px;
+}
+
+#Terug {
+    opacity: 1;
+    position: absolute;
+    left: 655.405px;
+    top: 173px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 49px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#VERSTUUR {
+    opacity: 1;
+    position: absolute;
+    left: 445.405px;
+    top: 567px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 103px;
+    white-space: nowrap;
+    text-align: right;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 21px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#Path_10 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(255, 255, 255);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_10 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 178.005px;
+    left: 645.776px;
+    width: 6.493px;
+    height: 11.573px;
+}
+
+#Prijs {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 222px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 53px;
+    height: 20px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Line_9 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(201, 54, 174);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_9 {
+    overflow: visible;
+    position: absolute;
+    top: 553.5px;
+    left: 23.5px;
+    width: 160px;
+    height: 1px;
+}
+
+
+#ID45 {
+    opacity: 1;
+    position: absolute;
+    left: 49px;
+    top: 254px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 20px;
+    height: 11px;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#ID3 {
+    opacity: 1;
+    position: absolute;
+    left: 54.5px;
+    top: 532px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 9px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#ID95 {
+    opacity: 1;
+    position: absolute;
+    left: 119px;
+    top: 254px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 20px;
+    height: 11px;
+    text-align: center;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(112, 112, 112, 1);
+}
+
+
+
+
+#Repeat_Grid_3 {
+    opacity: 1;
+    position: absolute;
+    width: 59px;
+    height: 141px;
+    left: 23px;
+    top: 330px;
+    overflow: hidden;
+}
+
+#Repeat_Grid_3_0 {
+    opacity: 1;
+    position: absolute;
+    width: 59px;
+    height: 10px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+
+#Belgi_ {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Repeat_Grid_3_1 {
+    opacity: 1;
+    position: absolute;
+    width: 59px;
+    height: 10px;
+    left: 0px;
+    top: 32px;
+    overflow: visible;
+}
+
+
+#Duitsland {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Repeat_Grid_3_4 {
+    opacity: 1;
+    position: absolute;
+    width: 59px;
+    height: 10px;
+    left: 0px;
+    top: 128px;
+    overflow: visible;
+}
+
+#Toiletten {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 599px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 83px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Rivier {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 620px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 78px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Water {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 641px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Electriciteit {
+    opacity: 1;
+    position: absolute;
+    left: 76px;
+    top: 662px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Meer___A3_Text_148 {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 685px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 60px;
+    height: 10px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 11px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Size {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 504px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 39px;
+    height: 16px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(112, 112, 112, 1);
+}
+
+
+#Omschrijving__Deze_website_is_ {
+    opacity: 1;
+    position: absolute;
+    left: 198.641px;
+    top: 639px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 357px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#HOOFDKANTOOR_GENT_Drieselstraa {
+    opacity: 1;
+    position: absolute;
+    left: 204.641px;
+    top: 222px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 336px;
+    height: 148px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(112, 112, 112, 1);
+    text-decoration: true;
+}
+
+#Vul_de_box_in_voor_snelle_simp {
+    opacity: 1;
+    position: absolute;
+    left: 204.641px;
+    top: 426px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 249px;
+    height: 19px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 14px;
+    color: rgba(112, 112, 112, 1);
+}
+
+#Group_5 {
+    opacity: 1;
+    position: absolute;
+    width: 115.5px;
+    height: 177px;
+    left: 598.641px;
+    top: 527px;
+    overflow: visible;
+}
+
+#Klantenbeoordeling {
+    opacity: 1;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 112px;
+    height: 177px;
+    line-height: 17px;
+    margin-top: -2.5px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(112, 112, 112, 1);
+    text-decoration: true;
+}
+
+#x {
+    opacity: 1;
+
+    left: 10px;
+    top: 10px;
+    box-sizing: border-box;
+    margin: 10;
+    padding: 10;
+    overflow: hidden;
+    width: 30px;
+    height: 50px;
+    line-height: 17px;
+    margin-top: 2.5px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 12px;
+    color: rgba(112, 112, 112, 1);
+    text-decoration: true;
+}
+
+#Symbol_1___3 {
+    opacity: 1;
+    position: absolute;
+    width: 100px;
+    height: 95px;
+    left: 15.5px;
+    top: 30.5px;
+    overflow: visible;
+}
+
+#Line_5 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(201, 54, 174);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_5 {
+    overflow: visible;
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 66px;
+    height: 4px;
+}
+
+#Line_6 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(201, 54, 174);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_6 {
+    overflow: visible;
+    position: absolute;
+    top: 24.689px;
+    left: 2px;
+    width: 100px;
+    height: 4px;
+}
+
+#Line_7 {
+    opacity: 1;
+    fill: transparent;
+    stroke: rgb(201, 54, 174);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Line_7 {
+    overflow: visible;
+    position: absolute;
+    top: 47.378px;
+    left: 2px;
+    width: 81px;
+    height: 4px;
+}
+
+#Path_8 {
+    opacity: 1;
+    fill: rgba(0, 0, 0, 0);
+    stroke: rgb(201, 54, 174);
+    stroke-width: 4px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Path_8 {
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    overflow: visible;
+    position: absolute;
+    top: 70px;
+    left: 2px;
+    width: 50px;
+    height: 4.067px;
+}
+
+
+
+#CONTACT {
+    opacity: 1;
+    position: absolute;
+    left: 199px;
+    top: 165.796px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 226.443px;
+    height: 27.523px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 25px;
+    color: rgba(112, 112, 112, 1);
+}
+
+
+#HOME {
+    opacity: 1;
+    position: absolute;
+    left: 23px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 45px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 15px;
+    color: rgba(201, 54, 174, 1);
+}
+
+#Rectangle_99 {
+    opacity: 1;
+    fill: rgba(255, 255, 255, 1);
+    stroke: rgb(201, 54, 174);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+
+.Rectangle_99 {
+    position: absolute;
+    overflow: visible;
+    width: 350.52px;
+    height: 109.251px;
+    left: 204.48px;
+    top: 445px;
+}
+
+
+#CAMPED {
+    opacity: 1;
+    position: absolute;
+    left: 29px;
+    top: 20px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 326px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: Helvetica Neue;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 76px;
+    color: rgba(255, 255, 255, 1);
+}
+
+#CONTACT_A3_Text_166 {
+    opacity: 1;
+    position: absolute;
+    left: 98px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(201, 54, 174, 1);
+}
+
+
+#HOME_A3 {
+    opacity: 1;
+    position: absolute;
+    left: 11px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    color: rgba(201, 54, 174, 1);
+}
+
+#CONTACT_A3 {
+    opacity: 1;
+    position: absolute;
+    left: 98px;
+    top: 125px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
+    width: 73px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    color: rgba(201, 54, 174, 1);
+}
+
+#type_hier_uw_tekst___ {
+    opacity: 0.502;
+    position: absolute;
+    left: 209.641px;
+    top: 452px;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width: 249px;
+    height: 19px;
+    text-align: left;
+    font-family: Benton Sans;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 10px;
+    color: rgba(112, 112, 112, 1);
+}
